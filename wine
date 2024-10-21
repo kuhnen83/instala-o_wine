@@ -1,6 +1,6 @@
 Para instalar o Wine, comece adicionando alguns pacotes essenciais:
 
-Nota: se você seguiu o tutorial de instalação do Steam, já rodou os próximos dois comandos, e pode seguir adiante.
+
 
 sudo apt install software-properties-common apt-transport-https curl -y
 Agora, adicione o suporte à arquitetura de 32 bits em seu sistema, com o seguinte comando no Terminal (Ctr+Alt+T):
